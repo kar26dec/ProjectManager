@@ -1,0 +1,38 @@
+{
+  "name": "projectmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "~1.14.1",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "cookie-parser": "^1.4.3",
+    "dedup": "^0.1.5",
+    "dedupe": "^2.1.0",
+    "express": "~4.13.2",
+    "express-session": "^1.15.0",
+    "formidable": "^1.0.17",
+    "helmet": "^3.4.0",
+    "ioredis": "^1.15.1",
+    "json2csv": "^3.7.3",
+    "jsonwebtoken": "^7.3.0",
+    "log4js": "^1.1.0",
+    "method-override": "~2.3.5",
+    "mocha": "^3.2.0",
+    "mongoose": "^4.11.1",
+    "morgan": "~1.6.1",
+    "nodemailer": "^3.0.0",
+    "request-ip": "^1.2.3",
+    "rsmq": "^0.7.0",
+    "supertest": "^2.0.1",
+    "util": "^0.10.3",
+    "winston": "^2.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
